@@ -1,1 +1,1 @@
-# LifeSimulator
+# EconomySimulator
